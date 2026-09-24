@@ -1,9 +1,3 @@
-/* =========================================================
-   Haseem Ali Khan - Portfolio Stylesheet
-   Lab 3: HTML Advanced - Personal Portfolio II
-   Layout is built with float + clear (no flexbox/grid),
-   per the lab requirements. Pure CSS - no frameworks, no JS.
-   ========================================================= */
 
 :root{
   --ink:#12142b;
